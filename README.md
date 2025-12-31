@@ -1,9 +1,7 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/Charlie808-debug/OverTheWire_Bandit)
-![GitHub contributors](https://img.shields.io/github/contributors/Charlie808-debug/OverTheWire_Bandit)
-![GitHub last commit](https://img.shields.io/github/last-commit/Charlie808-debug/OverTheWire_Bandit)
-![Top language](https://img.shields.io/github/languages/top/Charlie808-debug/OverTheWire_Bandit)
+![GitHub repo size](https://img.shields.io/github/repo-size/Charlie808-debug/OverTheWire_Leviathan)
+![GitHub stars](https://img.shields.io/github/stars/Charlie808-debug/OverTheWire_Leviathan)
+![GitHub issues](https://img.shields.io/github/issues/Charlie808-debug/OverTheWire_Leviathan)
 
-# OverTheWire_Leviathan
 # OverTheWire — Leviathan Writeups & Concepts
 
 This repository contains my complete writeups for the **Leviathan wargame**, the next step after Bandit in OverTheWire.  
